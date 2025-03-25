@@ -1,0 +1,58 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{cao2017facade}
+Jun Cao, Henning Metzmacher, James O'Donnell, J{\'e}r{\^o}me Frisch, Vladimir Bazjanac, Leif Kobbelt, and Christoph van Treeck.
+\newblock Facade geometry generation from low-resolution aerial photographs for building energy modeling.
+\newblock {\em Building and Environment}, 123:601--624, 2017.
+
+\bibitem{comaniciu2002mean}
+Dorin Comaniciu and Peter Meer.
+\newblock Mean shift: A robust approach toward feature space analysis.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence}, 24(5):603--619, 2002.
+
+\bibitem{fletcher2000practical}
+Roger Fletcher.
+\newblock {\em Practical methods of optimization}.
+\newblock John Wiley \& Sons, 2000.
+
+\bibitem{hu2024metric3d}
+Mu Hu, Wei Yin, Chi Zhang, Zhipeng Cai, Xiaoxiao Long, Hao Chen, Kaixuan Wang, Gang Yu, Chunhua Shen, and Shaojie Shen.
+\newblock Metric3d v2: A versatile monocular geometric foundation model for zero-shot metric depth and surface normal estimation.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence}, 2024.
+
+\bibitem{ma2022progressive}
+Wenguang Ma, Shibiao Xu, Wei Ma, Xiaopeng Zhang, and Hongbin Zha.
+\newblock Progressive feature learning for facade parsing with occlusions.
+\newblock {\em IEEE Transactions on Image Processing}, 31:2081--2093, 2022.
+
+\bibitem{mathias2016atlas}
+Markus Mathias, An{\dj}elo Martinovi{\'c}, and Luc Van~Gool.
+\newblock Atlas: A three-layered approach to facade parsing.
+\newblock {\em International Journal of Computer Vision}, 118:22--48, 2016.
+
+\bibitem{4310076}
+Nobuyuki Otsu.
+\newblock A threshold selection method from gray-level histograms.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics}, 9(1):62--66, 1979.
+
+\bibitem{wang2025yolov10}
+Ao Wang, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, et~al.
+\newblock Yolov10: Real-time end-to-end object detection.
+\newblock {\em Advances in Neural Information Processing Systems}, 37:107984--108011, 2025.
+
+\bibitem{wang2024framework}
+Yuefeng Wang, Wei Jiao, Hongchao Fan, and Guoqing Zhou.
+\newblock A framework for fully automated reconstruction of semantic building model at urban-scale using textured lod2 data.
+\newblock {\em ISPRS Journal of Photogrammetry and Remote Sensing}, 216:90--108, 2024.
+
+\bibitem{yin2023metric3d}
+Wei Yin, Chi Zhang, Hao Chen, Zhipeng Cai, Gang Yu, Kaixuan Wang, Xiaozhi Chen, and Chunhua Shen.
+\newblock Metric3d: Towards zero-shot metric 3d prediction from a single image.
+\newblock In {\em Proceedings of the IEEE/CVF International Conference on Computer Vision}, pages 9043--9053, 2023.
+
+\bibitem{10.1145/3592120}
+Qing Zhang, Hao Jiang, Yongwei Nie, and Wei-Shi Zheng.
+\newblock Pyramid texture filtering.
+\newblock {\em ACM Trans. Graph.}, 42(4), July 2023.
+
+\end{thebibliography}

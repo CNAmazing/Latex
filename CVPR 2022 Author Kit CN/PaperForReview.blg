@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PaperForReview.aux
+The style file: ieee_fullname.bst
+Database file #1: egbib.bib
+Warning--I didn't find a database entry for "Alpher04"
+Warning--I didn't find a database entry for "Alpher03"
+You've used 11 entries,
+            2120 wiz_defined-function locations,
+            655 strings with 7069 characters,
+and the built_in function-call counts, 4498 in all, are:
+= -- 424
+> -- 291
+< -- 1
++ -- 117
+- -- 104
+* -- 367
+:= -- 777
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 83
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 134
+empty$ -- 289
+format.name$ -- 104
+if$ -- 891
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 12
+newline$ -- 58
+num.names$ -- 22
+pop$ -- 75
+preamble$ -- 1
+purify$ -- 73
+quote$ -- 0
+skip$ -- 94
+stack$ -- 0
+substring$ -- 277
+swap$ -- 23
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 42
+warning$ -- 0
+while$ -- 38
+width$ -- 13
+write$ -- 121
+(There were 2 warnings)
